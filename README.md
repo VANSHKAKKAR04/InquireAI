@@ -33,7 +33,8 @@ Unlike **Retrieval-Augmented Generation (RAG)**, which retrieves document chunks
 ### **Prerequisites**
 Ensure you have **Python 3.8+** installed.
 
-### **Clone the Repository**
+### **Clone the Repository & Run the App**
 ```bash
-git clone https://github.com/your-username/InquireAI.git  
+git clone https://github.com/VANSHKAKKAR04/InquireAI.git
 cd InquireAI
+streamlit run cache.py
